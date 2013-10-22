@@ -1,0 +1,10 @@
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\ReaderWriterHelper\bin\Debug\CSharp_ReaderWriterHelper.dll
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\ReaderWriterHelper\bin\Debug\CSharp_ReaderWriterHelper.pdb
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\ReaderWriterHelper\obj\Debug\CSharp_ReaderWriterHelper.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\ReaderWriterHelper\obj\Debug\CSharp_ReaderWriterHelper.dll
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\ReaderWriterHelper\obj\Debug\CSharp_ReaderWriterHelper.pdb
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\CSharp_ReaderWriterHelper\bin\Debug\CSharp_ReaderWriterHelper.dll
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\CSharp_ReaderWriterHelper\bin\Debug\CSharp_ReaderWriterHelper.pdb
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\CSharp_ReaderWriterHelper\obj\Debug\CSharp_ReaderWriterHelper.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\CSharp_ReaderWriterHelper\obj\Debug\CSharp_ReaderWriterHelper.dll
+C:\Users\Muhammed Tanriverdi\Desktop\C# ReaderWriterHelper\CSharp_ReaderWriterHelper\obj\Debug\CSharp_ReaderWriterHelper.pdb

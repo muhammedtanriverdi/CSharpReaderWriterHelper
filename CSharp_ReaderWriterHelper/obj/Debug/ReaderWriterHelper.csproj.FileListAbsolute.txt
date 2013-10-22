@@ -1,0 +1,4 @@
+C:\Users\Muhammed Tanriverdi\Desktop\ReaderWriterHelper\ReaderWriterHelper\bin\Debug\ReaderWriterHelper.dll
+C:\Users\Muhammed Tanriverdi\Desktop\ReaderWriterHelper\ReaderWriterHelper\bin\Debug\ReaderWriterHelper.pdb
+C:\Users\Muhammed Tanriverdi\Desktop\ReaderWriterHelper\ReaderWriterHelper\obj\Debug\ReaderWriterHelper.dll
+C:\Users\Muhammed Tanriverdi\Desktop\ReaderWriterHelper\ReaderWriterHelper\obj\Debug\ReaderWriterHelper.pdb
